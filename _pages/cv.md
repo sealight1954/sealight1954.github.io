@@ -24,9 +24,13 @@ redirect_from:
 ======
 * C/C++ <font size="2">8years:</font>
   * Industrial Application (Pedestrian Tracking) for Surveillance System
-* Python <font size="2">8years:</font>
-  * Sub-skill 2.3
-* Skill 3
+* Python <font size="2">5years:</font>
+* Matlab <font size="2">5years:</font>
+* Git <font size="2">5years:</font>
+* Shell Script <font size="2">12years:</font>
+* Linux <font size="2">12years:</font> 
+  * Small Server Administration.
+  * Server Construction and Administration (GPU Cluster).
 
 Publications
 ======
